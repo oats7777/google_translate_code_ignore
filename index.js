@@ -3,13 +3,14 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       oats7777
+// @license      MIT
 // @source       https://github.com/oats7777/google_translate_code_ignore
 // @include http://*
 // @include https://*
 // @include *
 // @grant        none
-// ==/UserScript==
+// @run-at       document-start
 
 (function() {
     'use strict';
